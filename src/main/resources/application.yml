@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/crickInformer
+    username: root
+    password: karan
+    initialization-mode: always
